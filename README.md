@@ -73,6 +73,5 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 ### Хэрэгтэй холбоос болон программууд
 
-sourcetreeapp.com
-
-GithubDesktop
+1. sourcetreeapp.com
+2. GithubDesktop
