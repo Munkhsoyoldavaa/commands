@@ -71,6 +71,10 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git merge --abort` **Merge хийхээ болиулах**
 
+`git fetch` **Github репо дээр байгаа файлыг локал репо руу хуулна**
+
+`git pull` **Github репо дээр байгаа файлыг ажлын хавтас руу автоматаар merge хийнэ хуулна**
+
 ### Хэрэгтэй холбоос болон программууд
 
 1. sourcetreeapp.com
