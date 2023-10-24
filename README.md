@@ -1,11 +1,11 @@
-## Git командууд
+## Git командууд 🤩
 git командуудын тайлбар, тусламжийн репо.
 
-## Live server тохируулах
+### Live server тохируулах
 
 Visual studio code - Live server >> install
 
-## Github хэрэгэгчийг солих
+### Github хэрэгэгчийг солих
 
 Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг солих
 
@@ -29,15 +29,13 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `q` **Log файлаас гарах**
 
-`git commit` **github сервер лүү илгээх**
+`git commit -m ["хийсэн зүйлийнхээ тайлбар"]` **Тайлбар бичиж илгээнэ**
 
 `git config -l` **Үндсэн тохиргоог харах**
 
 `git config --global user.email [noyonmc.mine@gmail.com]` **Мэйл хаяг тохируулах**
 
 `git config --global user.name [Munkhsoyoldavaa]` **Нэр тохируулах**
-
-## Live server тохируулах
 
 `git remote -v` **Git тэй холбоотой эсэхийг шалгах**
 
@@ -47,44 +45,34 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git push origin master` **Push хийх**
 
---
+`git push` **Push хийх**
 
-`git version` **Version харах**
+`git restore --staged [index.html]` **Өөрчлөгдсөн болон устгагдсан файлыг буцаах**
 
-`git version` **Version харах**
+`git commit --help` **Дэлгэрэнгүй комманд**
 
-`git version` **Version харах**
+`git checkout [shal id number]` **Тухайн push хийсэн хэсэгт буцаана**
 
-`git version` **Version харах**
+`git branch` **Үүсгэсэн бүх branch харах**
 
-`git version` **Version харах**
+`git branch [name]` **Branch үүсгэх**
 
-`git version` **Version харах**
+`git branch -m [branch name, change name]` **branch нэр өөрчлөх**
 
-`git version` **Version харах**
+`git checkout [branch name]` **branch буюу төслийн хувилбар луу шилжих**
 
-`git version` **Version харах**
+`git branch -d [branch name]` **branch устгах.**
 
-`git version` **Version харах**
+`git branch -D [branch name]` **branch бүр мөсөн устгах**
 
-`git version` **Version харах**
+`git merge [branch name]` **Merge хийх**
 
-`git version` **Version харах**
+`git checkout -b [branch name]` **Шинээр branch үүсгэнэ**
 
-`git version` **Version харах**
+`git merge --abort` **Merge хийхээ болиулах**
 
-`git version` **Version харах**
+### Хэрэгтэй холбоос болон программууд
 
+sourcetreeapp.com
 
-
-
-
-
-
-
-
-
-
-
-
-
+GithubDesktop
