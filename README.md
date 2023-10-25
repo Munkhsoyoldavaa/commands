@@ -79,6 +79,8 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git pull` **Github репо дээр байгаа файлыг ажлын хавтас руу автоматаар merge хийнэ хуулна**
 
+`git remote show origin` **репо -ныхоо дэлгэрэнгүй мэдээлэл харна**
+
 ### Хэрэгтэй холбоос болон программууд
 
 1. sourcetreeapp.com
