@@ -69,6 +69,10 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git checkout -b [branch name]` **Шинээр branch үүсгэнэ**
 
+`git checkout -b [branch name] origin/[branch name]` **Tracking branch**
+
+`git checkout --track origin/[branch name]` **Tracking branch**
+
 `git merge --abort` **Merge хийхээ болиулах**
 
 `git fetch` **Github репо дээр байгаа файлыг локал репо руу хуулна**
