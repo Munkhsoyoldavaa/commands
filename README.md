@@ -81,6 +81,8 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git remote show origin` **репо -ныхоо дэлгэрэнгүй мэдээлэл харна**
 
+`git remote prune origin` **remote -г цэвэрлэж**
+
 ### Хэрэгтэй холбоос болон программууд
 
 1. sourcetreeapp.com
