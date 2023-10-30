@@ -81,7 +81,7 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git remote show origin` **репо -ныхоо дэлгэрэнгүй мэдээлэл харна**
 
-`git remote prune origin` **remote -г цэвэрлэж**
+`git remote prune [remote_name]` **Локал дээрх remote -г цэвэрлэнэ**
 
 ### Хэрэгтэй холбоос болон программууд
 
