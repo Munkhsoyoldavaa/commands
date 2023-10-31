@@ -83,6 +83,8 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git remote prune [remote_name]` **Локал дээрх remote -г цэвэрлэнэ**
 
+`git push --all` **Бүх бранчийн бүх мэдээллийг push хийнэ**
+
 ### Хэрэгтэй холбоос болон программууд
 
 1. sourcetreeapp.com
