@@ -91,6 +91,8 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git checkout --track origin/[branch name]` **Tracking branch**
 
+`git branch -vv` **Tracking branch харах**
+
 ### Хэрэгтэй холбоос болон программууд
 
 1. sourcetreeapp.com
