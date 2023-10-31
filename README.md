@@ -71,6 +71,10 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git show-ref [branch name]` **локал болон git репо дээрх мэдээллийг харах**
 
+`git reflog` **локал commit харах**
+
+`git reset -hard [number]` **тухайн commit -г сэргээх**
+
 ### Branch commands
 
 `git branch` **Үүсгэсэн бүх branch харах**
