@@ -53,25 +53,7 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git checkout [shal id number]` **Тухайн push хийсэн хэсэгт буцаана**
 
-`git branch` **Үүсгэсэн бүх branch харах**
-
-`git branch [name]` **Branch үүсгэх**
-
-`git branch -m [branch name, change name]` **branch нэр өөрчлөх**
-
-`git checkout [branch name]` **branch буюу төслийн хувилбар луу шилжих**
-
-`git branch -d [branch name]` **branch устгах.**
-
-`git branch -D [branch name]` **branch бүр мөсөн устгах**
-
 `git merge [branch name]` **Merge хийх**
-
-`git checkout -b [branch name]` **Шинээр branch үүсгэнэ**
-
-`git checkout -b [branch name] origin/[branch name]` **Tracking branch**
-
-`git checkout --track origin/[branch name]` **Tracking branch**
 
 `git merge --abort` **Merge хийхээ болиулах**
 
@@ -84,6 +66,28 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 `git remote prune [remote_name]` **Локал дээрх remote -г цэвэрлэнэ**
 
 `git push --all` **Бүх бранчийн бүх мэдээллийг push хийнэ**
+
+### Branch commands
+
+`git branch` **Үүсгэсэн бүх branch харах**
+
+`git branch [name]` **Branch үүсгэх**
+
+`git checkout -b [branch name]` **Шинээр branch үүсгэнэ**
+
+`git switch -C [branch name]` **Шинээр branch үүсгэнэ**
+
+`git branch -m [branch name, change name]` **branch нэр өөрчлөх**
+
+`git checkout [branch name]` **branch буюу төслийн хувилбар луу шилжих**
+
+`git branch -d [branch name]` **branch устгах.**
+
+`git branch -D [branch name]` **branch бүр мөсөн устгах**
+
+`git checkout -b [branch name] origin/[branch name]` **Tracking branch**
+
+`git checkout --track origin/[branch name]` **Tracking branch**
 
 ### Хэрэгтэй холбоос болон программууд
 
