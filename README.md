@@ -45,6 +45,8 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git push origin master` **Push хийх**
 
+`git push -u origin [branch name]` **Branch push хийх**
+
 `git push` **Push хийх**
 
 `git restore --staged [index.html]` **Өөрчлөгдсөн болон устгагдсан файлыг буцаах**
