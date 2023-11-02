@@ -89,6 +89,8 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git tag -l [v0*]` **v0 -өөр эхэлсэн бүх тагийг харуулна**
 
+`git merge --squash [branch name]` **branch name нэртэй бранч дотор байгаа коммитуудыг нэгтгэн нэг болгож merge хийнэ**
+
 ### Branch commands
 
 `git branch` **Үүсгэсэн бүх branch харах**
