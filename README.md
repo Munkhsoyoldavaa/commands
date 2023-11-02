@@ -75,6 +75,8 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git reset -hard [number]` **тухайн commit -г сэргээх**
 
+`git commit --amend` **Хамгийн сүүүлийн commit засварлах шинээр файл нэмж оруулах**
+
 ### Branch commands
 
 `git branch` **Үүсгэсэн бүх branch харах**
