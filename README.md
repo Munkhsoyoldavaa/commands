@@ -43,6 +43,10 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git remote add origin [https://github.com/Munkhsoyoldavaa/mcgo.git]` **Github дотор репо үүсгэх. Үүсгэсэн rebo link хуулж тавих**
 
+`git remote add [remote name] [repo name] ` **Өөр шинэ репо нэмж оруулах**
+
+`git remote rename [remote name] [change remote name] ` **Remote нэр солих**
+
 `git push origin master` **Push хийх**
 
 `git push -u origin [branch name]` **Branch push хийх**
