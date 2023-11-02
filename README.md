@@ -81,6 +81,14 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git commit --amend` **Хамгийн сүүүлийн commit засварлах шинээр файл нэмж оруулах**
 
+`git tag -a [shall id] -m "comment"` **tag шинээр үүсгэх**
+
+`git push --delete origin [tag name]` **origin дээрээс tag устгах**
+
+`git tag -d [tag name]` **repo дээрээс tag устгах**
+
+`git tag -l [v0*]` **v0 -өөр эхэлсэн бүх тагийг харуулна**
+
 ### Branch commands
 
 `git branch` **Үүсгэсэн бүх branch харах**
