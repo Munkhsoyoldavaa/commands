@@ -91,6 +91,8 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git merge --squash [branch name]` **branch name нэртэй бранч дотор байгаа коммитуудыг нэгтгэн нэг болгож merge хийнэ**
 
+`git cherry-pick [shall id]` **Хэрэгтэй коммитуудыг өөрийн бранч дотроо хуулж авах**
+
 ### Branch commands
 
 `git branch` **Үүсгэсэн бүх branch харах**
