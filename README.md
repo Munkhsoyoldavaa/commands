@@ -93,6 +93,12 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git cherry-pick [shall id]` **Хэрэгтэй коммитуудыг өөрийн бранч дотроо хуулж авах**
 
+`git stash push -m "commit write"` **Түр хадгалах**
+
+`git stash list` **Түр хадгалсан файлуудаа харах**
+
+`git stash drop [stash list number]"` **Түр хадгалсан файлаа устгах**
+
 ### Branch commands
 
 `git branch` **Үүсгэсэн бүх branch харах**
