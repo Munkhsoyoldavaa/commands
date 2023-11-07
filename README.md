@@ -99,6 +99,8 @@ Windows Search хэсэгт -> Credential manager - Git хэрэглэгчийг
 
 `git stash drop [stash list number]"` **Түр хадгалсан файлаа устгах**
 
+`git stash pop` **Түр хадгалсан хамгийн сүүлийн файлыг сэргээнэ**
+
 ### Branch commands
 
 `git branch` **Үүсгэсэн бүх branch харах**
